@@ -5,10 +5,11 @@ from selenium.webdriver.common.by import By
 import time
 
 EXCEL_FILENAME = "data.xlsx"
-EXCEL_PATH = "C:\\Users\\Richard\\Documents\\-projects\\project-15\\"
+EXCEL_PATH = "YOUR_PATH _HERE"
+#EXCEL_PATH = "C:\\Users\\Richard\\Documents\\-projects\\project-15\\"
 ROOT_URL = "https://finance.yahoo.com/quote/"
-#DRIVER_PATH = "[YOUR_PATH_HERE]/chromedriver.exe"
-DRIVER_PATH = "C:\Program Files (x86)\chromedriver.exe"
+DRIVER_PATH = "[YOUR_PATH_HERE]/chromedriver.exe"
+#DRIVER_PATH = "C:\Program Files (x86)\chromedriver.exe"
 
 # get the user data
 # ====================================================================================================
